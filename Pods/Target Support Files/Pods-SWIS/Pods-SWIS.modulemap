@@ -1,0 +1,6 @@
+framework module Pods_SWIS {
+  umbrella header "Pods-SWIS-umbrella.h"
+
+  export *
+  module * { export * }
+}
